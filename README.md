@@ -28,3 +28,8 @@ Depois dessas etapas, realizei alguns plots para analisar vendas por anos e trat
 ![Logo](img/step5.PNG) 
 
 Porém após analise vi que precisaria de mais alguns tratamentos, além disso o ideial seria vários teste para chegar no melhor modelo.
+
+Após tratamentos agendei os jobs
+
+![Logo](img/jobs.PNG) 
+O erro que aparece foi eu intencionalmente cancelando o job
