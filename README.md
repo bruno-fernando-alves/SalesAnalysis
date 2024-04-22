@@ -24,3 +24,7 @@ Salvar os Df agregados em parquet e o df main em Delta para analises posteriores
 
 ![Logo](img/step3.1.PNG) 
 
+Depois dessas etapas, realizei alguns plots para analisar vendas por anos e tratamento de algumas colunas, posso dizer que eu tentei fazer um modelo de regressão conforme a imagem a seguir:
+![Logo](img/step5.PNG) 
+
+Porém após analise vi que precisaria de mais alguns tratamentos, além disso o ideial seria vários teste para chegar no melhor modelo.
